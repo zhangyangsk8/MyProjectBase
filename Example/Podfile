@@ -1,0 +1,6 @@
+use_frameworks!
+target 'MyProjectBase_Tests' do
+  pod 'MyProjectBase', :path => '../'
+  
+  
+end

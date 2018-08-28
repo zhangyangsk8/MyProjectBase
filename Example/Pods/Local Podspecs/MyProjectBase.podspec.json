@@ -1,0 +1,22 @@
+{
+  "name": "MyProjectBase",
+  "version": "0.1.0",
+  "summary": "A short description of MyProjectBase.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/zhangyangsk8@gmail.com/MyProjectBase",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "zhangyangsk8@gmail.com": "yang.zhang.a@17zuoye.com"
+  },
+  "source": {
+    "git": "https://github.com/zhangyangsk8@gmail.com/MyProjectBase.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "MyProjectBase/Classes/**/*"
+}
